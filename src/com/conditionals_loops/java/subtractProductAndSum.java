@@ -1,7 +1,6 @@
 package com.conditionals_loops.java;
 
-import java.util.Scanner;
-
+// 
 public class subtractProductAndSum {
 
 	/* pseudo code aisa hoga somewhere..
