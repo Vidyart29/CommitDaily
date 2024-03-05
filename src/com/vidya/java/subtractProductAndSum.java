@@ -1,6 +1,7 @@
 // 1281. Subtract the Product and Sum of Digits of an Integer
 // A very beginner friendly question wherein, i have implemented two logic and merged em', to bring the desired output. In this i have made a small small mistakes like missed declaring the variables, function access scope i kept as public initally and without static keyword. I have got more than 20 errors after complilation but i understood all the error and convert my pseudo code to proper java code and hence soln got accepted. 
 
+/*
 class Solution {
     public int subtractProductAndSum(int n) {
 
@@ -37,7 +38,7 @@ class Solution {
             return result;
         }
 }
-
+*/
 
 
 
