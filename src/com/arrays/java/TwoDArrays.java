@@ -37,5 +37,28 @@ public class TwoDArrays {
 //		[4, 5, 6]
 //		[7, 8, 9]
 		}
+		
+//		enhanced array -using for each loop
+//		a- variable am trying to print 
+		/*
+		 * [I  -> Class name for a one-dimensional integer array
+			@  -> Separator
+			59a6e353 -> Hash code of the array object
+
+		 */
+		for (int[] a : arr) {
+			System.out.println(Arrays.toString(a) +"");
+			System.out.println();
+			System.out.println(a); //will give a hash code which is a default repr3esentation of an array's memory reference in Java
+		}
+		
+//		for (String[] element : arr) {
+//			System.out.println(a);
+//		}
+		
+		
+
+		
+		
 	}
 }
