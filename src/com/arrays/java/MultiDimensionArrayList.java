@@ -15,7 +15,7 @@ public class MultiDimensionArrayList {
 		for (int i = 0; i < 3; i++) {
 			list.add(new ArrayList<>());
 		}
-			a
+			
 	for (int i = 0; i < 3; i++) {
 		for (int j = 0; j < 3; j++) {
 			list.get(i).add(scanner.nextInt());
