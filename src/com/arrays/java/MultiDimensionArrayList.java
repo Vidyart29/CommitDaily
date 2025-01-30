@@ -11,7 +11,7 @@ public class MultiDimensionArrayList {
 		Scanner scanner=new Scanner(System.in);
 		
 		
-//		initialising
+//		initialising an array for the other for loop, this is must.
 		for (int i = 0; i < 3; i++) {
 			list.add(new ArrayList<>());
 		}
